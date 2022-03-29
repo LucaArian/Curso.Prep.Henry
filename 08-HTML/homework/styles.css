@@ -1,0 +1,11 @@
+#Tercerdiv {
+    height: 600px;
+    width: 500px;
+    background-color: black;
+    padding: 50px;
+    border: 1px solid greenyellow;
+}
+#SpanId {
+    font-size: 18px;
+    margin: 50px;
+}
